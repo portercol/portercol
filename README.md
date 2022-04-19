@@ -48,4 +48,4 @@
 <code><img height="20" src=""></code> --->
 
 ## 📊 My Stats
-![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol)]
+![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true)
