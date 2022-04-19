@@ -4,25 +4,25 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, spendin
 <hr/>
 
 <div>
-  <a href="http://cporter.herokuapp.com/">📝 See more of what I do.</a>
+  <a href="http://cporter.herokuapp.com/">📝 See more of what I do</a>
 </div>
 <div>
-  <a>🔭 I’m currently teaching at 2U Education Services.</a>
+  <a>🔭 I’m currently teaching at 2U Education Services</a>
 </div>
 <div>
-  <a>💡 I’m currently learning Commerce.js & Stripe.</a>
+  <a>💡 I’m currently learning Commerce.js & Stripe</a>
 </div>
 <div>
-  <a>🌎 Apart of this great Dev Community. </a>
+  <a>🌎 Apart of this great Dev Community</a>
 </div>
 <div>
-  <a>🔑 Continued growth personally, professionally and spiritually.</a>
+  <a>🔑 Growing personally, professionally and spiritually</a>
 </div>
 <div>
-  <a>👱🏼‍♂️ Pronouns: He/Him/His.</a>
+  <a>👱🏼‍♂️ Pronouns: He/Him/His</a>
 </div>
 <div>
-  <a>🛩 I have traveled to 22/50 US states.</a>
+  <a>🛩 I have traveled to 22/50 US states</a>
 </div>
 <div>
   📫 How to reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
