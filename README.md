@@ -36,6 +36,11 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 ### 👨🏼‍💻 Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
 </div>
   
 <hr/>
