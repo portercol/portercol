@@ -1,6 +1,6 @@
-### I'm Collin Porter. I'm a Full-Stack Web Developer, a father & musician. I love traveling, spending time with my daughter and pursuing new technologies to futher add to my tech-stack.
+### 👋🏻 Welcome! I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love traveling, spending time with my daughter and pursuing new technologies to futher add to my tech-stack.
 
-- 📝[Portfolio](http://cporter.herokuapp.com/)
+- 📝 [Portfolio](http://cporter.herokuapp.com/)
 - 🔭 I’m currently teaching at 2U Education Services.
 - 💡 I’m currently learning Commerce.js & Stripe.
 - 🌎 Apart of this great Dev Community. 
@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/collin-porter-7b65311a8/">
-<img align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img style="color:white;" align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/thewalsterofficial/">
 <img align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
