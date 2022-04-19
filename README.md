@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, spendin
   <a>💡 I’m currently learning Commerce.js & Stripe.</a>
 </div>
 <div>
-  <a>💬 Ask me about anything you'd like to know!</a>
+  <a>🔑 Continued growth personally, professionally and spiritually.</a>
 </div>
 <div>
   <a>👱🏼‍♂️ Pronouns: He/Him/His.</a>
