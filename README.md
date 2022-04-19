@@ -49,4 +49,4 @@
 
 ## 📊 My Stats
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portercol&repo=github-readme-stats)](https://github.com/portercol/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portercol)
