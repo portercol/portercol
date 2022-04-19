@@ -6,7 +6,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 - 💡 I’m currently learning Commerce.js & Stripe.
 - 🌎 Apart of this great Dev Community. 
 - 💬 Ask me about anything you'd like to know!
-- 📫 How to reach me: <img height="30px" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"></img>
+- 📫 How to reach me: <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
 - 👱🏼‍♂️ Pronouns: He/Him/His
 - 🛩 Fun fact: I have traveled to 22/50 US states.
 
