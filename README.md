@@ -24,7 +24,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 
 <hr/>
 
-*👥 Community*
+****👥 Community****
 - Stackoverflow
 - Medium
 - LinkedIn
