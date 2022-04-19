@@ -1,15 +1,16 @@
 ### 👋🏻 Welcome! 
 I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love traveling, spending time with my daughter and pursuing new technologies to futher add to my tech-stack.
 
-- 📝 [Portfolio](http://cporter.herokuapp.com/)
-- 🔭 I’m currently teaching at 2U Education Services.
-- 💡 I’m currently learning Commerce.js & Stripe.
-- 🌎 Apart of this great Dev Community. 
-- 💬 Ask me about anything you'd like to know!
-- 👱🏼‍♂️ Pronouns: He/Him/His
-- 🛩 Fun fact: I have traveled to 22/50 US states.
 <div>
-  - 📫 How to reach me: <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
+📝 [Portfolio](http://cporter.herokuapp.com/)
+🔭 I’m currently teaching at 2U Education Services.
+💡 I’m currently learning Commerce.js & Stripe.
+🌎 Apart of this great Dev Community. 
+💬 Ask me about anything you'd like to know!
+👱🏼‍♂️ Pronouns: He/Him/His
+🛩 Fun fact: I have traveled to 22/50 US states.
+<div>
+  📫 How to reach me: <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
 </div>
 
 <hr/>
