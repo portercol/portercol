@@ -16,9 +16,6 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, spendin
   <a>🌎 Apart of this great Dev Community. </a>
 </div>
 <div>
-  <a>💡 I’m currently learning Commerce.js & Stripe.</a>
-</div>
-<div>
   <a>🔑 Continued growth personally, professionally and spiritually.</a>
 </div>
 <div>
