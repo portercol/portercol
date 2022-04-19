@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 <hr/>
 
 <div>
-  <a href="http://cporter.herokuapp.com/">📝 See more of what I do</a>
+  <a href="http://cporter.herokuapp.com/" target="_blank">📝 See more of what I do</a>
 </div>
 <div>
   <a>🔭 I’m currently teaching at 2U Education Services</a>
