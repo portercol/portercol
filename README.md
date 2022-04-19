@@ -33,7 +33,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 
 <hr/>
 
-## 👨🏼‍💻 Tech Stack
+### 👨🏼‍💻 Tech Stack
 
 ![react-1-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903407-d2dbff87-b376-4235-a43d-d85bf5790be3.png)
 ![javascript-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903418-d76a8860-fb4f-49e8-b15d-54ac467b6669.png)
@@ -49,7 +49,8 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code> --->
 
-## 📊 My Stats
+### 📊 My Stats
+
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portercol&layout=compact&theme=radical)
