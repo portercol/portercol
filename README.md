@@ -33,7 +33,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 
 <hr/>
 
-### 👨🏼‍💻 Tech Stack
+### 👨🏼‍💻 Tech | Dev
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px"></img>
@@ -42,6 +42,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40px" width="40px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" height="40px" width="40px"></img>
 </div>
   
 <hr/>
