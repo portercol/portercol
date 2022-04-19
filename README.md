@@ -34,7 +34,7 @@
 ![mongodb-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903450-6c0b65f1-0a30-4f5b-94ef-f539e3f56e69.png)
 ![nodejs-1-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903459-808cc498-ddb1-488c-b0bc-d397a6745fb5.png)
 ![html-5-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903657-d609c62d-cbe1-42bd-8667-fb801aa36459.png)
-![css3-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903912-33287044-0608-418d-ad76-3c10a7ea6e26.png)
+![css3-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163904012-e3ea92d3-a638-4f60-95c0-e36e6972857e.png)
 
 
 <!--- <code><img height="20" src=""></code>
