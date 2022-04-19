@@ -30,18 +30,6 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, spendin
 
 <hr/>
 
-<a href="https://www.linkedin.com/in/collin-porter-7b65311a8/">
-<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.instagram.com/thewalsterofficial/">
-<img align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/portercol/">
-<img align="center" alt="Collin Porter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<hr/>
-
 ### 👥 Community
 - Stackoverflow
 - Medium
@@ -64,11 +52,6 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, spendin
 </div>
   
 <hr/>
-<!--- <code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code> --->
 
 ### 📊 My Stats
 
