@@ -7,10 +7,10 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a href="http://cporter.herokuapp.com/" target="_blank">📝 See more of what I do</a>
 </div>
 <div>
-  <a>🔭 I’m currently teaching at 2U Education Services</a>
+  <a>🔭 TA & Tutor at 2U Education Services</a>
 </div>
 <div>
-  <a>💡 I’m currently learning Commerce.js & Stripe</a>
+  <a>💡 Currently learning Commerce.js & Stripe</a>
 </div>
 <div>
   <a>🌎 Apart of this great Dev Community</a>
@@ -19,13 +19,13 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a>🔑 Growing personally, professionally and spiritually</a>
 </div>
 <div>
-  <a>👱🏼‍♂️ Pronouns: He/Him/His</a>
+  <a>👱🏼‍♂️ He/Him/His</a>
 </div>
 <div>
-  <a>🛩 I have traveled to 22/50 US states</a>
+  <a>🛩 Traveled to 22/50 US states</a>
 </div>
 <div>
-  📫 How to reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
+  📫 Reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
 </div>
 
 <hr/>
