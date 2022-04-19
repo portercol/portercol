@@ -26,7 +26,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
   <a>🛩 I have traveled to 22/50 US states.</a>
 </div>
 <div>
-  📫 How to reach me: <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
+  📫 How to reach me: <img height="20px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
 </div>
 
 <hr/>
