@@ -21,12 +21,16 @@
 <img align="center" alt="Collin Porter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<hr/>
+
 ## 👥 Community
 - Stackoverflow
 - Medium
 - LinkedIn
 - Pinkbrain
 - Codewars
+
+<hr/>
 
 ## 👨🏼‍💻 Tech Stack
 ![react-1-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903407-d2dbff87-b376-4235-a43d-d85bf5790be3.png)
@@ -36,7 +40,7 @@
 ![html-5-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903657-d609c62d-cbe1-42bd-8667-fb801aa36459.png)
 ![css3-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163904113-3e097167-7f1e-4e5e-8a6a-cfcac83496fa.png)
 
-
+<hr/>
 <!--- <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
@@ -44,4 +48,4 @@
 <code><img height="20" src=""></code> --->
 
 ## 📊 My Stats
-![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol)](https://github.com/portercol/github-readme-stats)
+![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol)]
