@@ -1,4 +1,5 @@
-### 👋🏻 Welcome! I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love traveling, spending time with my daughter and pursuing new technologies to futher add to my tech-stack.
+### 👋🏻 Welcome! 
+I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love traveling, spending time with my daughter and pursuing new technologies to futher add to my tech-stack.
 
 - 📝 [Portfolio](http://cporter.herokuapp.com/)
 - 🔭 I’m currently teaching at 2U Education Services.
