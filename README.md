@@ -13,7 +13,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 <hr/>
 
 <a href="https://www.linkedin.com/in/collin-porter-7b65311a8/">
-<img style="color:white;" align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img style="color:white;" align="center" alt="Collin Porter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://www.instagram.com/thewalsterofficial/">
 <img align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
