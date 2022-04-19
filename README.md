@@ -1,5 +1,5 @@
 ### 👋🏻 I'm Collin, Welcome! 
-I'm a Full-Stack Web Developer, a father and musician. I love traveling, spending time with my daughter and sports. I enjoy pursuing new technologies to grow my tech skills.
+I'm a Full-Stack Web Developer, a father and musician. I love traveling, family time and sports. I also enjoy pursuing new technologies to grow my dev skills.
 
 <hr/>
 
