@@ -48,5 +48,5 @@
 <code><img height="20" src=""></code> --->
 
 ## 📊 My Stats
-![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true)
+![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portercol)
