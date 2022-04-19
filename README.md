@@ -9,7 +9,7 @@
 - 👱🏼‍♂️ Pronouns: He/Him/His
 - 🛩 Fun fact: I have traveled to 22/50 US states.
 
-<br/>
+<hr/>
 
 <a href="https://www.linkedin.com/in/collin-porter-7b65311a8/">
 <img style="color:white;" align="center" alt="Collin Porter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
