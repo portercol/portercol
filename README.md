@@ -7,12 +7,24 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 <div>
   <a>🔭 I’m currently teaching at 2U Education Services.</a>
 </div>
-  <a>🔭 I’m currently teaching at 2U Education Services.</a>
-💡 I’m currently learning Commerce.js & Stripe.
-🌎 Apart of this great Dev Community. 
-💬 Ask me about anything you'd like to know!
-👱🏼‍♂️ Pronouns: He/Him/His
-🛩 Fun fact: I have traveled to 22/50 US states.
+<div>
+  <a>💡 I’m currently learning Commerce.js & Stripe.</a>
+</div>
+<div>
+  <a>🌎 Apart of this great Dev Community. </a>
+</div>
+<div>
+  <a>💡 I’m currently learning Commerce.js & Stripe.</a>
+</div>
+<div>
+  <a>💬 Ask me about anything you'd like to know!</a>
+</div>
+<div>
+  <a>👱🏼‍♂️ Pronouns: He/Him/His.</a>
+</div>
+<div>
+  <a>🛩 I have traveled to 22/50 US states.</a>
+</div>
 <div>
   📫 How to reach me: <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
 </div>
