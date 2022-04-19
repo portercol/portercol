@@ -29,11 +29,11 @@
 - Codewars
 
 ## 👨🏼‍💻 Tech Stack
-![javascript-logo-svg-vector](https://user-images.githubusercontent.com/65620655/163901564-87cea06a-20af-428f-835e-871cfaa0e37a.svg)
-![react-1-logo-svg-vector](https://user-images.githubusercontent.com/65620655/163901590-046a6b5b-63d6-40a2-bf56-04bda0dd7618.svg)
-![nodejs-1-logo-svg-vector](https://user-images.githubusercontent.com/65620655/163901631-e3b85662-308c-4bf5-a048-585acefc5330.svg)
-![mongodb-logo-svg-vector](https://user-images.githubusercontent.com/65620655/163901641-e13b93fd-cc31-4f21-b9e7-3e7fdc65d370.svg)
-![html-5-logo-svg-vector](https://user-images.githubusercontent.com/65620655/163901670-8d4a0632-0713-46f2-b974-d89c252589aa.svg)
+![react-1-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903407-d2dbff87-b376-4235-a43d-d85bf5790be3.png)
+![javascript-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903418-d76a8860-fb4f-49e8-b15d-54ac467b6669.png)
+![mongodb-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903450-6c0b65f1-0a30-4f5b-94ef-f539e3f56e69.png)
+![nodejs-1-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903459-808cc498-ddb1-488c-b0bc-d397a6745fb5.png)
+![html-5-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903470-a1ab48dc-0598-492b-9c51-d0ba68cd7613.png)
 ![css3-logo-png-transparent](https://user-images.githubusercontent.com/65620655/163903089-dea63f68-8764-4f84-8fcb-4e2e5b9c471e.png)
 
 <!--- <code><img height="20" src=""></code>
