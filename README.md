@@ -3,6 +3,7 @@ I'm Collin and I'm a Full-Stack Web Developer, a father and musician. I love tra
 
 <div>
   <a href="http://cporter.herokuapp.com/">📝 Portfolio</a>
+  <a>🔭 I’m currently teaching at 2U Education Services.</a>
 </div>
   <a>🔭 I’m currently teaching at 2U Education Services.</a>
 💡 I’m currently learning Commerce.js & Stripe.
