@@ -4,9 +4,6 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 <hr/>
 
 <div>
-  <a href="http://cporter.herokuapp.com/" target="_blank">📝 See more of what I do</a>
-</div>
-<div>
   <a>🔭 TA & Tutor at 2U Education Services</a>
 </div>
 <div>
@@ -20,6 +17,9 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 </div>
 <div>
   <a>🛩 Traveled to 22/50 US states</a>
+</div>
+<div>
+  <a href="http://cporter.herokuapp.com/" target="_blank">📝 See more of what I do</a>
 </div>
 <div>
   📫 Reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
