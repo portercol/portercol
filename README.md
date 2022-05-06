@@ -16,7 +16,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a>🌎 Apart of this great Dev Community</a>
 </div>
 <div>
-  <a>🔑 Always improving</a>
+  <a>🔑 Improving mind/body/soul daily</a>
 </div>
 <div>
   <a>🛩 Traveled to 22/50 US states</a>
