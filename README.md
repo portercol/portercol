@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 <hr/>
 
 <div>
-  <a>🔭 TA & Tutor at 2U Education Services</a>
+  <a>🔭 TA & Tutor at 2U Inc.</a>
 </div>
 <div>
   <a>💡 Currently learning Commerce.js & Stripe</a>
@@ -13,7 +13,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a>🌎 Apart of this great Dev Community</a>
 </div>
 <div>
-  <a>🔑 Improving mind/body/soul daily</a>
+  <a>🔑 Driven, creative and eager to improve</a>
 </div>
 <div>
   <a>🛩 Traveled to 22/50 US states</a>
