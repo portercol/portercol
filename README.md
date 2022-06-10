@@ -7,7 +7,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a>🔭 TA & Tutor at 2U Inc.</a>
 </div>
 <div>
-  <a>💡 Currently learning Commerce.js & Stripe</a>
+  <a>💡 Currently building a MERN stack E-Commerce site</a>
 </div>
 <div>
   <a>🌎 Apart of this great Dev Community</a>
