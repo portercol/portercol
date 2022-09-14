@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 <hr/>
 
 <div>
-  <a>🔭 TA & Tutor at 2U Inc.</a>
+  <a>🔭 Jr. Web Developer & TA/Tutor</a>
 </div>
 <div>
   <a>💡 Currently building a MERN stack E-Commerce site</a>
@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
   <a>🛩 Traveled to 22/50 US states</a>
 </div>
 <div>
-  <a href="http://cporter.herokuapp.com/" target="_blank">📝 See more of what I do</a>
+  <a href="https://collinporter.dev/" target="_blank">📝 See more of what I do</a>
 </div>
 <div>
   📫 Reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
