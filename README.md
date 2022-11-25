@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 <hr/>
 
 <div>
-  <a>🔭 Jr. Web Developer & TA/Tutor</a>
+  <a>🔭 Web Developer & Webdev Tutor</a>
 </div>
 <div>
   <a>💡 Currently building a MERN stack E-Commerce site</a>
