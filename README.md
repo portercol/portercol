@@ -1,29 +1,31 @@
-### 👋🏻 I'm Collin, Welcome! 
-I'm a Full-Stack Web Developer, a father and musician. I love traveling, family time and sports. Constantly pursuing new tech to grow and advance my skills.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Collin
+==============================================================================================================================
 
-<hr/>
+I'm a Web Developer
+-------------------
 
-<div>
-  <a>🔭 Web Developer & Webdev Tutor</a>
-</div>
-<div>
-  <a>💡 Currently building a MERN stack E-Commerce site</a>
-</div>
-<div>
-  <a>🌎 Apart of this great Dev Community</a>
-</div>
-<div>
-  <a>🔑 Driven, creative and eager to improve</a>
-</div>
-<div>
-  <a>🛩 Traveled to 22/50 US states</a>
-</div>
-<div>
-  <a href="https://collinporter.dev/" target="_blank">📝 See more of what I do</a>
-</div>
-<div>
-  📫 Reach me: <img height="20px" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></img>
-</div>
+I enjoy working with new tech stacks and different platforms for dev. New challenges are awesome and new tech is cool.
+
+*   🌍  I'm based in Salt Lake City
+*   🖥️  See my portfolio at [this clickable link](http://collinporter.dev/)
+*   ✉️  You can contact me at [cporter.dev@gmail.com](mailto:cporter.dev@gmail.com)
+*   🧠  I'm learning Flutter and Dart
+*   ⚡  Currently building my wife a website to sell her art and booking for esthetician services.### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
 
 <hr/>
 
@@ -34,20 +36,6 @@ I'm a Full-Stack Web Developer, a father and musician. I love traveling, family 
 - Pinkbrain
 - Codewars
 
-<hr/>
-
-### 👨🏼‍💻 Tech | Dev
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40px" width="40px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" height="40px" width="40px"></img>
-</div>
-  
 <hr/>
 
 ### 📊 My Stats
