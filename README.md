@@ -33,15 +33,6 @@ I enjoy working with new tech stacks and different platforms for dev. New challe
 
 <hr/>
 
-### 👥 Community
-- Stackoverflow
-- Medium
-- LinkedIn
-- Pinkbrain
-- Codewars
-
-<hr/>
-
 ### 📊 My Stats
 
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=portercol&show_icons=true&theme=radical)
