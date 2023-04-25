@@ -11,7 +11,7 @@ I enjoy working with new tech stacks and different platforms for dev. New challe
 *   ✉️  You can contact me at [cporter.dev@gmail.com](mailto:cporter.dev@gmail.com)
 *   🧠  I'm learning Flutter and Dart
 *   ⚡  Currently building an app for my wife to sell art and schedule bookings for her esthetician services.
-*   
+
 ### Skills
 
 <p align="left">
@@ -32,7 +32,7 @@ I enjoy working with new tech stacks and different platforms for dev. New challe
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/portercol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />&nbsp;</a> <a href="http://www.instagram.com/thewalsterofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/collin-porter-7b65311a8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@colls.potta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/collin-porter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/portercol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />&nbsp;</a> <a href="http://www.instagram.com/thewalsterofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;<a href="https://www.linkedin.com/in/collin-porter-7b65311a8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;<a href="http://www.medium.com/@colls.potta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>&nbsp;<a href="https://www.stackoverflow.com/users/collin-porter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 <hr/>
 
