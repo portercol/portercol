@@ -10,7 +10,8 @@ I enjoy working with new tech stacks and different platforms for dev. New challe
 *   🖥️  See my portfolio at [this clickable link](http://collinporter.dev/)
 *   ✉️  You can contact me at [cporter.dev@gmail.com](mailto:cporter.dev@gmail.com)
 *   🧠  I'm learning Flutter and Dart
-*   ⚡  Currently building my wife a website to sell her art and booking for esthetician services.### Skills 
+*   ⚡  Currently building an app for my wife to sell art and schedule bookings for her esthetician services.   
+### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
